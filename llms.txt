@@ -1,0 +1,28 @@
+# ZENTAKO
+
+> ZENTAKO provides real estate prospecting and appointment-setting support for real estate agents and small teams.
+
+## Services
+- Homeowner outreach using client-approved lead lists and agreed calling infrastructure.
+- Seller-interest qualification based on client-defined criteria.
+- Follow-up with interested homeowners.
+- Listing appointment scheduling and confirmations.
+- Conversation notes, activity tracking, and reporting.
+
+## Intended clients
+- Independent real estate agents.
+- Small real estate teams and growing brokerages.
+- Agents with lead lists but limited follow-up capacity.
+
+## Process
+1. Align on target area, lead source, qualification rules, and calendar availability.
+2. Prospect using the client's approved list and calling setup.
+3. Qualify interest, follow up, and book appointments when criteria are met.
+4. Report activity, appointment details, and feedback.
+
+## Contact
+- Website: https://zentako.com/
+- Email: hello@zentako.com (the website currently displays this as a placeholder; verify before relying on it)
+
+## Notes
+ZENTAKO does not publish unverified guarantees. Campaign details and compliance requirements are confirmed before engagement.
